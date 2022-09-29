@@ -35,6 +35,7 @@ export default function Home() {
         <p className={styles.description}>
           Get started by editing{" "}
           <code className={styles.code}>pages/index.js</code>
+          <br />
           <button onClick={showWidget}>SHOW</button>
           <button onClick={hideWidget}>HIDE</button>
         </p>
